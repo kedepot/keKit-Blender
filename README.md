@@ -35,7 +35,7 @@ Check out the [HOMEPAGE](https://ke-code.xyz/scripts/kekit.html)
 #### Updating
 To avoid potential issues when updating keKit - Follow these steps exactly:  
 1. Quit Blender
-2. Delete the kekit add-on folder manually (Find [HERE](https://docs.blender.org/manual/en/latest/advanced/blender_directory_layout.html)
+2. Delete the kekit add-on folder manually - Located [HERE](https://docs.blender.org/manual/en/latest/advanced/blender_directory_layout.html)
 3. Do manually extract the new keKit folder from the downloaded zip-file there.
 4. Restart blender
  
